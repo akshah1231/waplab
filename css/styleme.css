@@ -1,0 +1,27 @@
+h1{
+    color: #00faea;
+    font-family: Tahoma, Geneva, Verdana,  sans-serif;
+    background-color: bisque;
+}
+h3{
+    color: #ff7faa;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-family: sans-serif,Arial, Arial Black, Verdana, Trebuchet MS,Georgia;
+    text-align: center;
+}
+ul{
+    font-family: 'Courier New', Courier, monospace;
+}
+a:link {
+    text-decoration: none;
+  }
+a:hover {
+    text-decoration: underline;
+    color: #ff7faa;
+
+}
+p::first-letter {
+    font-size: 1.5rem; 
+  }
